@@ -1,0 +1,13 @@
+{
+	"name": "example-api-app",
+	"main": "server.js",
+	"description": "Node.js Example API App",
+	"dependencies": {
+		"body-parser": "^1.17.1",
+		"express": "^4.15.2"
+	},
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:rifkyalikiki/example-api-app.git"
+    }
+}
